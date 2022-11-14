@@ -6,11 +6,16 @@ You can click the Preview link to take a look at your changes.
 --->
 I will put my random short projects here.
 
+
 Currently Uploaded:
+
 
 Text Scroller
 
+
 Ideas:
+
+
 Fake Chat Bot
 
 League Esports Data Formula
@@ -22,6 +27,8 @@ Tic-Tac-Toe
 Tetris
 
 Explanation:
+
+
 Text Scroller: A basic program that makes scrolling text in java. Useful for making text based interactive programs feel more fresh. Delay between characters is editable.
 
 Fake Chat Bot: A simple text formula where you can talk to an “AI” endlessly, acting similarly to a chat app.
