@@ -18,7 +18,7 @@ Ideas:
 
 Fake Chat Bot
 
-League Esports Data Formula
+League Esports Data Formula (separate project: see profile)
 
 Octopath COTC Team Builder
 
