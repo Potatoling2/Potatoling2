@@ -32,7 +32,8 @@ public class compcode {
           d = digitsum % 9;
           e = num % 4;
           if(d == 0 && e == 0 && altsum == 0) {
-              System.out.println("Number found! " + x);
+              System.out.println("Number found! " + x);              
+              System.exit(0);
           }
           else {
               num++;
