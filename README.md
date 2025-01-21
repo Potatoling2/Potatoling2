@@ -20,12 +20,3 @@ Ideas:
 League Esports Data Formula (separate project: see profile)
 
 Pokemon calculator
-
-Explanation:
-
-
-Text Scroller: A basic program that makes scrolling text in java. Useful for making text based interactive programs feel more fresh. Delay between characters is editable.
-
-compcode: Bad name for a rushed project, couldn't figure out a better way to solve a math problem from rcml so made a quick code to check my answer.
-
-League Esports Data Formula: Use my personal biased metrics to create an "elo" score for various league of legends teams. The goal is to eventually be able to simulate matches and predict winners of tournaments using this. 
